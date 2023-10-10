@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-# from tag 1.0
+# from develop
 
 option go_package = "src/rpc";
 
